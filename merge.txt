@@ -1,1 +1,4 @@
 merge에는 3가지 방식이 있습니다.
+
+- fast-forward exer
+
